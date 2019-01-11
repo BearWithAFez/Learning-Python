@@ -9,9 +9,17 @@ All excercises are sort of made up on the spot and devided on how far I'm in the
 
 ## Chapter 1: Aan de slag
 
+### Parrot
+
+A program that imitates an annoying parrot that says everything back at you.
+
 ### Hola
 
 A simple game where you guess if the next number is going to be lower or higher.
+
+### Rock Paper Scissors
+
+Yeah take a guess :thinking:
 
 # Contact
 
