@@ -5,6 +5,8 @@ I'm using [this book](https://www.vanduurenmedia.nl/EAN/9789059409743/Handboek_P
 
 All excercises are sort of made up on the spot and devided on how far I'm in the book.
 
+![Boek](http://progressed.io/bar/9?title=Boek)   
+
 # Content
 
 ## Chapter 1: Aan de slag
@@ -20,6 +22,10 @@ A simple game where you guess if the next number is going to be lower or higher.
 ### Rock Paper Scissors
 
 Yeah take a guess :thinking:
+
+### 21
+
+Simple game that is supposed to resemble a blackjack-esque game. Get as close to 21 without going over it.
 
 # Contact
 
