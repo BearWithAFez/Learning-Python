@@ -5,7 +5,7 @@ I'm using [this book](https://www.vanduurenmedia.nl/EAN/9789059409743/Handboek_P
 
 All excercises are sort of made up on the spot and devided on how far I'm in the book.
 
-![Boek](http://progressed.io/bar/9?title=Boek)   
+![Boek](http://progressed.io/bar/18?title=Boek)   
 
 # Content
 
