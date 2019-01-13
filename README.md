@@ -37,3 +37,8 @@ Helps the user decide what of all inputs to pick.
 
 Feel free to contact me if anything comes up.
 - Dfr34kz@gmail.com
+
+# Credits
+
+- Animals text stolen from [here](https://gist.github.com/atduskgreg/3cf8ef48cb0d29cf151bedad81553a54#file-animals-txt).
+- Git progress bar stolen from [here](https://github.com/fehmicansaglam/progressed.io).
