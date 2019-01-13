@@ -27,6 +27,12 @@ Yeah take a guess :thinking:
 
 Simple game that is supposed to resemble a blackjack-esque game. Get as close to 21 without going over it.
 
+## Chapter 2: Strings en collecties
+
+### Choice helper
+
+Helps the user decide what of all inputs to pick.
+
 # Contact
 
 Feel free to contact me if anything comes up.
