@@ -33,6 +33,10 @@ Simple game that is supposed to resemble a blackjack-esque game. Get as close to
 
 Helps the user decide what of all inputs to pick.
 
+### Random animal
+
+Guesses your favorite animal from a list (randomly).
+
 # Contact
 
 Feel free to contact me if anything comes up.
