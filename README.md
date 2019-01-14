@@ -5,7 +5,7 @@ I'm using [this book](https://www.vanduurenmedia.nl/EAN/9789059409743/Handboek_P
 
 All excercises are sort of made up on the spot and devided on how far I'm in the book.
 
-![Boek](http://progressed.io/bar/18?title=Boek)   
+![Boek](http://progressed.io/bar/27?title=Boek)   
 
 # Content
 
@@ -36,6 +36,12 @@ Helps the user decide what of all inputs to pick.
 ### Random animal
 
 Guesses your favorite animal from a list (randomly).
+
+## Chapter 3: Modulariteit
+
+### animals
+
+Made during the process of the chapter. A variation of Random animal from CH2.
 
 # Contact
 
