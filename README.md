@@ -5,7 +5,7 @@ I'm using [this book](https://www.vanduurenmedia.nl/EAN/9789059409743/Handboek_P
 
 All excercises are sort of made up on the spot and devided on how far I'm in the book.
 
-![Boek](http://progressed.io/bar/27?title=Boek)   
+![Boek](http://progressed.io/bar/33?title=Boek)   
 
 # Content
 
@@ -53,6 +53,14 @@ This one does alot:
 - Counts the repeatedness of words
 - Tries to deploy skynet
 - Gets all the first letters
+
+## Chapter 4: Ingebouwde typen en het objectmodel
+
+Geen oefeningen gemaakt wegens pure theorie.
+
+## Chapter 5: Ingebouwde collectietypen
+
+
 
 # Contact
 
