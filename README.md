@@ -43,6 +43,17 @@ Guesses your favorite animal from a list (randomly).
 
 Made during the process of the chapter. A variation of Random animal from CH2.
 
+### textAnalyser
+
+This one does alot:
+- Counts all the chars from a text
+- Counts all the lines from a text
+- Counts all the words
+- Counts all the unique ones
+- Counts the repeatedness of words
+- Tries to deploy skynet
+- Gets all the first letters
+
 # Contact
 
 Feel free to contact me if anything comes up.
